@@ -21,7 +21,7 @@ h2{
 
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(rgb(240, 145, 101), rgb(247, 116, 29));
     padding: 10px 35px;
     font-weight: 700;
     color: white;
